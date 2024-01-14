@@ -15,3 +15,6 @@ https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/autoco
 
 Задача №5. Зависимости(Граф).
 https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/dependencies(graph).py
+
+Задача №6. Фильтр Блума.
+https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/bloom%20filter.py
