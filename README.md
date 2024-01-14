@@ -5,3 +5,4 @@
 https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/deque.py
 
 Задача №2. Косое дерево.
+https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/splay%20tree.py
