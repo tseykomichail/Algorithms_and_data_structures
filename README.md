@@ -12,3 +12,6 @@ https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/binary
 
 Задача №4. Автокоррекция(Сжатое префиксное дерево).
 https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/autocorrection(trie).py
+
+Задача №5. Зависимости(Граф).
+https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/dependencies(graph).py
