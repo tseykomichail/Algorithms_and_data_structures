@@ -6,3 +6,6 @@ https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/deque.
 
 Задача №2. Косое дерево.
 https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/splay%20tree.py
+
+Задача №3. Двоичная min-куча с модификацией.
+https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/binary%20min-heap.py
