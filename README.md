@@ -9,3 +9,6 @@ https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/splay%
 
 Задача №3. Двоичная min-куча с модификацией.
 https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/binary%20min-heap.py
+
+Задача №4. Автокоррекция(Сжатое префиксное дерево).
+https://github.com/tseykomichail/Algorithms_and_data_structures/blob/main/autocorrection(trie).py
